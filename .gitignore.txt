@@ -2,3 +2,5 @@
 .venv/
 #Pycharm + IDE configurazioni
 .idea/
+#Chiave API
+env
