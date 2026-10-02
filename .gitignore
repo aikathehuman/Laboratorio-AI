@@ -1,6 +1,12 @@
 #Virtual environment
 .venv/
+
 #Pycharm + IDE configurazioni
 .idea/
+
 #Chiave API
 .env
+
+#File di riferimento
+01.01-Autonomous-IT-Operations-Agent.ipynb
+02.01-Multi-Agents.ipynb

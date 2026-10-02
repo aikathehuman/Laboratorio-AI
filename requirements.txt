@@ -1,6 +1,6 @@
 # Ambiente di esecuzione Jupyter / PyCharm
 notebook>=7.0.0
-ipykernel>=6.0.0
+ipykernel>=6.29
 ipython>=8.0.0
 python-dotenv>=1.0.0
 
